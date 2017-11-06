@@ -20,3 +20,7 @@ application/logs/*
 #phpstorm
 .idea
 /tmp
+.DS_Store
+
+/tests/reports
+ 
